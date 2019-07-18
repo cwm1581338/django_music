@@ -1,2 +1,4 @@
-# django_music
-a small project about django
+# django_music_web
+a small practice in django and mysql
+
+
